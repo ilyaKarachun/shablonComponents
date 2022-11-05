@@ -1,0 +1,64 @@
+.message {
+    display: grid;
+}
+
+.imageAndText {
+    display: grid;
+    grid-template-columns: 1fr max-content min-content;
+    grid-template-rows: max-content max-content;
+}
+
+.imageAndText img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    grid-column-start: 3;
+    grid-row-start: 1;
+    margin-left: 0.5em;
+    margin-top: 2em;
+}
+
+.text {
+    background-color: cornflowerblue;
+    position: relative;
+    border-radius: 0.7em 0.7em 0 0.7em;
+    padding-top: 1em;
+    padding-right: 2em;
+    grid-column-start: 2;
+    grid-row-start: 1;
+}
+
+.text:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    display: block;
+    width: 25px;
+    height:25px;
+    background: radial-gradient(6vh at top right, transparent 49%, cornflowerblue 51%) no-repeat left bottom;
+}
+
+.name {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    color: black;
+    text-align: right;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.messageText {
+    grid-column-start: 2;
+    grid-row-start: 2;
+    text-align: right;
+    color: black;
+    padding-left: 10px;
+}
+
+.time {
+    grid-column-start: 1;
+    grid-row-start: 2;
+    text-align: right;
+    color: darkolivegreen;
+}
