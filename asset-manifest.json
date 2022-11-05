@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shablonComponents/static/css/main.19087ed3.css",
-    "main.js": "/shablonComponents/static/js/main.23770c46.js",
+    "main.js": "/shablonComponents/static/js/main.b44202cf.js",
     "static/js/787.66cb4309.chunk.js": "/shablonComponents/static/js/787.66cb4309.chunk.js",
     "static/media/withCup.jpg": "/shablonComponents/static/media/withCup.01db4c3dbf106ab6bf9f.jpg",
     "static/media/avatar.jpeg": "/shablonComponents/static/media/avatar.bb7aaffd02d917c3048e.jpeg",
     "index.html": "/shablonComponents/index.html",
     "main.19087ed3.css.map": "/shablonComponents/static/css/main.19087ed3.css.map",
-    "main.23770c46.js.map": "/shablonComponents/static/js/main.23770c46.js.map",
+    "main.b44202cf.js.map": "/shablonComponents/static/js/main.b44202cf.js.map",
     "787.66cb4309.chunk.js.map": "/shablonComponents/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19087ed3.css",
-    "static/js/main.23770c46.js"
+    "static/js/main.b44202cf.js"
   ]
 }
