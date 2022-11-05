@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shablonComponents/static/css/main.e861022d.css",
+    "main.js": "/shablonComponents/static/js/main.1abf103a.js",
+    "static/js/787.66cb4309.chunk.js": "/shablonComponents/static/js/787.66cb4309.chunk.js",
+    "static/media/withCup.jpg": "/shablonComponents/static/media/withCup.01db4c3dbf106ab6bf9f.jpg",
+    "static/media/avatar.jpeg": "/shablonComponents/static/media/avatar.bb7aaffd02d917c3048e.jpeg",
+    "index.html": "/shablonComponents/index.html",
+    "main.e861022d.css.map": "/shablonComponents/static/css/main.e861022d.css.map",
+    "main.1abf103a.js.map": "/shablonComponents/static/js/main.1abf103a.js.map",
+    "787.66cb4309.chunk.js.map": "/shablonComponents/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e861022d.css",
+    "static/js/main.1abf103a.js"
+  ]
+}
