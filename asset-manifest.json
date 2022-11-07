@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shablonComponents/static/css/main.19087ed3.css",
-    "main.js": "/shablonComponents/static/js/main.b44202cf.js",
+    "main.css": "/shablonComponents/static/css/main.fe74f363.css",
+    "main.js": "/shablonComponents/static/js/main.dd097583.js",
     "static/js/787.66cb4309.chunk.js": "/shablonComponents/static/js/787.66cb4309.chunk.js",
     "static/media/withCup.jpg": "/shablonComponents/static/media/withCup.01db4c3dbf106ab6bf9f.jpg",
     "static/media/avatar.jpeg": "/shablonComponents/static/media/avatar.bb7aaffd02d917c3048e.jpeg",
     "index.html": "/shablonComponents/index.html",
-    "main.19087ed3.css.map": "/shablonComponents/static/css/main.19087ed3.css.map",
-    "main.b44202cf.js.map": "/shablonComponents/static/js/main.b44202cf.js.map",
+    "main.fe74f363.css.map": "/shablonComponents/static/css/main.fe74f363.css.map",
+    "main.dd097583.js.map": "/shablonComponents/static/js/main.dd097583.js.map",
     "787.66cb4309.chunk.js.map": "/shablonComponents/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19087ed3.css",
-    "static/js/main.b44202cf.js"
+    "static/css/main.fe74f363.css",
+    "static/js/main.dd097583.js"
   ]
 }
