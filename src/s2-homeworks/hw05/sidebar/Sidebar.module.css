@@ -1,25 +1,37 @@
 .sidebar {
+    color: black;
+    padding: 15px;
+    display: flex;
+    width: 200px;
+    transition-duration: 1s;
+    /*transform: translate(-180px);*/
 }
 
 .sidebar.open {
+    color: black;
 }
 
 .background {
 }
 
 .nav {
+
 }
 
 .nav a {
+    text-decoration: none;
 }
 
 .nav a:hover {
+    opacity: 50%;
 }
 
 .nav a.active {
+    color: #00cc22;
 }
 .close {
 }
 
 .close img {
+
 }

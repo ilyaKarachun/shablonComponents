@@ -1,7 +1,9 @@
-.greetingForm {
+    .greetingForm {
 }
 
 .inputAndButtonContainer {
+    display: flex;
+    gap: 15px;
 }
 
 .error {
@@ -14,9 +16,13 @@
 }
 
 .errorInput {
+    border: 2px solid red;
 }
 
 .button {
+    background-color: cornflowerblue;
+    width: 100px;
+    border-radius: 5px;
 }
 
 .button:focus {
