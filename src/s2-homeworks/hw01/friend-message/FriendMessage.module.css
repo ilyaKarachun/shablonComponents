@@ -38,7 +38,7 @@
     right: 100%;
     width: 25px;
     height: 25px;
-    background: radial-gradient(6vh at top left, transparent 49%, #dde9ff 51%) no-repeat right bottom;
+    background: radial-gradient(50px at top left, transparent 49%, #dde9ff 51%) no-repeat right bottom;
 }
 
 .friendName {

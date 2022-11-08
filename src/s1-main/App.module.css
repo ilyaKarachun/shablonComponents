@@ -3,12 +3,13 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
+    flex-wrap: wrap;
 
 }
 
 .hw {
     margin: 0 auto;
-    width: 60%;
+    width: 80%;
     border-bottom: #cc0000 1px solid;
     padding: 20px;
 }
