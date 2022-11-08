@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shablonComponents/static/css/main.5095c751.css",
+    "main.css": "/shablonComponents/static/css/main.d68b8a60.css",
     "main.js": "/shablonComponents/static/js/main.04a5d1b1.js",
     "static/js/787.66cb4309.chunk.js": "/shablonComponents/static/js/787.66cb4309.chunk.js",
     "static/media/withCup.jpg": "/shablonComponents/static/media/withCup.01db4c3dbf106ab6bf9f.jpg",
@@ -11,12 +11,12 @@
     "static/media/checked.svg": "/shablonComponents/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/shablonComponents/index.html",
     "static/media/burger.svg": "/shablonComponents/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.5095c751.css.map": "/shablonComponents/static/css/main.5095c751.css.map",
+    "main.d68b8a60.css.map": "/shablonComponents/static/css/main.d68b8a60.css.map",
     "main.04a5d1b1.js.map": "/shablonComponents/static/js/main.04a5d1b1.js.map",
     "787.66cb4309.chunk.js.map": "/shablonComponents/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5095c751.css",
+    "static/css/main.d68b8a60.css",
     "static/js/main.04a5d1b1.js"
   ]
 }
