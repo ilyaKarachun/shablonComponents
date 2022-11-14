@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shablonComponents/static/css/main.c202f758.css",
-    "main.js": "/shablonComponents/static/js/main.0c7ce0b5.js",
+    "main.css": "/shablonComponents/static/css/main.b430575c.css",
+    "main.js": "/shablonComponents/static/js/main.507b8b85.js",
     "static/js/787.66cb4309.chunk.js": "/shablonComponents/static/js/787.66cb4309.chunk.js",
     "static/media/withCup.jpg": "/shablonComponents/static/media/withCup.01db4c3dbf106ab6bf9f.jpg",
     "static/media/avatar.jpeg": "/shablonComponents/static/media/avatar.bb7aaffd02d917c3048e.jpeg",
@@ -12,12 +12,12 @@
     "static/media/checked.svg": "/shablonComponents/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/shablonComponents/index.html",
     "static/media/burger.svg": "/shablonComponents/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.c202f758.css.map": "/shablonComponents/static/css/main.c202f758.css.map",
-    "main.0c7ce0b5.js.map": "/shablonComponents/static/js/main.0c7ce0b5.js.map",
+    "main.b430575c.css.map": "/shablonComponents/static/css/main.b430575c.css.map",
+    "main.507b8b85.js.map": "/shablonComponents/static/js/main.507b8b85.js.map",
     "787.66cb4309.chunk.js.map": "/shablonComponents/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c202f758.css",
-    "static/js/main.0c7ce0b5.js"
+    "static/css/main.b430575c.css",
+    "static/js/main.507b8b85.js"
   ]
 }
