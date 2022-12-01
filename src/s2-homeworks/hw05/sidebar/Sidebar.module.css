@@ -1,25 +1,35 @@
 .sidebar {
     color: black;
-    padding: 15px;
     display: flex;
     width: 200px;
     transition-duration: 1s;
-    /*transform: translate(-180px);*/
+    transform: translate(-180px);
 }
 
 .sidebar.open {
     color: black;
+    transition-duration: 1s;
+    transform: translate(0px);
+    z-index: 1;
+    background-color: #dde9ff;
+    width: 300px;
 }
 
 .background {
+    background-color: cornflowerblue;
+
 }
 
 .nav {
-
+    margin: 0;
+    padding: 0;
 }
 
 .nav a {
     text-decoration: none;
+    margin: 0;
+    padding: 15px;
+    width: 200px;
 }
 
 .nav a:hover {
@@ -33,5 +43,7 @@
 }
 
 .close img {
-
+    background-position: center;
+    height: 50px;
+    width: 50px;
 }
